@@ -8,7 +8,7 @@ You will need to add something else to the state of `App` to track which categor
 
 All the css is included in `src/App.css`, just make sure your classes are correct (but don't worry about the styling too much!).
 
-## Strech goals
+## Stretch goals
 
 - Add an X button to delete a task.
 - Add a form to add a new task.
